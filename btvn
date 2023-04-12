@@ -1,0 +1,10 @@
+Tạo file index3.js
+Trong file index3.js có hàm hiển thị data trong 1 object tên là displayObject
+Dùng hàm displayObject ở file index.js 
+
+Xem lại các hàm của array và object
+ - map, filter, sort, forEach, push, pop, shift, unshift
+ - Object.keys, Object.values
+Xem trước thư viện express npm
+
+tìm hiểu dùng thư viện lodash, nodemon, express trên npm
